@@ -4,6 +4,8 @@ Replacement of the Charm Accessories website built in 2020 with modern technolog
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/1.png)<kbd>
 
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/7.png)<kbd>
+
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/6.png)<kbd>
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/4.png)<kbd>
