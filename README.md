@@ -28,9 +28,9 @@ The main part of the infrastructure is shown in the code extract below. It is cu
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/6.png)<kbd>
 
-<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/3.png)<kbd>
-
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/4.png)<kbd>
+
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/3.png)<kbd>
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/2.png)<kbd>
 
