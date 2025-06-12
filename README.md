@@ -2,9 +2,7 @@
 
 Replacement with modern technology of the Charm Accessories website built in 2020. 
 
-The code is identical to the "wwurm winery" website that was built for the company 'Nordicmade' based in Norway (https://www.nordicmade.com/).
-
-https://github.com/mckenzie-mm/nordic-frontend
+The code is identical to the "wwurm winery" website that was built for the company 'Nordicmade' based in Norway (https://www.nordicmade.com/). The code for the "wwurm winery" is at: https://github.com/mckenzie-mm/nordic-frontend
 
 Charm Accessories uses different photos/text from a template file selected from a configuration file when the app is built. The wwurm winery website has a different template file with German text/photos.
 
