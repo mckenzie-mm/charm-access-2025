@@ -24,4 +24,13 @@ The task uses a bridge network for communicating between the containers.
 
 The main part of the infrastructure is shown in the code extract below. It is currently deployed only on Australian AWS and will be slow to load in Europe/Norway.
 
-![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/1.png)
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/1.png)<kbd>
+
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/2.png)<kbd>
+
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/3.png)<kbd>
+
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/4.png)<kbd>
+
+<kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/5.png)<kbd>
+
