@@ -6,7 +6,7 @@ It is the same code that was built for the company 'Nordicmade' based in Norway 
 
 The demonstration website for Charm Accessories can be viewed at: http://3.25.102.86/
 
-The kangaroo logo is by Konstantin: https://dribbble.com/stay_heavy The model photos are by Alena: https://www.dreamstime.com/alenkasm_info
+The kangaroo logo is by Konstantin: https://www.instagram.com/kostya_reshetnikov/ The model photos are by Alena: https://www.dreamstime.com/alenkasm_info
 
 Screenshots from the demonstration website are shown below.
 
