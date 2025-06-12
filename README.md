@@ -8,6 +8,8 @@ The demonstration website for Charm Accessories can be viewed at: http://3.25.10
 
 The kangaroo logo is by Konstantin: https://www.instagram.com/kostya_reshetnikov/. The model photos are by Alena: https://www.dreamstime.com/alenkasm_info
 
+The jewelery images/product were taken from temu: https://www.temu.com/. Charm Accessories sells, bracelets, necklaces etc with the exception of rings, which it does not sell.
+
 Screenshots from the demonstration website are shown below.
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/1.png)<kbd>
@@ -23,4 +25,3 @@ Screenshots from the demonstration website are shown below.
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/2.png)<kbd>
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/5.png)<kbd>
-
