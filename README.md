@@ -6,7 +6,7 @@ The shared code for both is at: https://github.com/mckenzie-mm/nordic-frontend. 
 
 The kangaroo logo is by Konstantin: https://www.instagram.com/kostya_reshetnikov/. The model photos are by Alena: https://www.dreamstime.com/alenkasm_info. 
 
-The jewelery images/products were taken from temu: https://www.temu.com/. Charm Accessories sells the same, bracelets, necklaces etc at a lower price.
+The jewelery images/products were taken from temu: https://www.temu.com/. Charm Accessories sells the same, bracelets, necklaces etc at a lower price and offers fast, local postage and delivery.
 
 Screenshots from the demonstration website are shown below.
 
