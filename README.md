@@ -1,6 +1,6 @@
 # Charm Accessories 2025
 
-2025 replacement website using modern technology for the Charm Accessories website built in 2020. The code is identical to the "wwurm winery" demonstration website that I built for Nordicmade.  Charm Accessories uses different photos/text from a template file that is selected from a configuration file when the app is built. The "wwurm winery" website has a different template file with German text/photos that apply to the winery shop. 
+A 2025 replacement website using modern technology for the Charm Accessories website built in 2020. The code is identical to the "wwurm winery" demonstration website that I built for Nordicmade.  Charm Accessories uses different photos/text from a template file that is selected from a configuration file when the app is built. The "wwurm winery" website has a different template file with German text/photos that apply to the winery shop. 
 
 The shared code for both is at: https://github.com/mckenzie-mm/nordic-frontend. The website for Charm Accessories can be viewed at: http://3.25.102.86/
 
