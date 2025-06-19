@@ -10,6 +10,8 @@ The jewelery images/products were taken from temu: https://www.temu.com/. Charm 
 
 Screenshots from the demonstration website are shown below.
 
+June 2025
+
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/1.png)<kbd>
 
 <kbd>![alt text](https://github.com/mckenzie-mm/charm-access-2025/blob/main/images-readme/7.png)<kbd>
