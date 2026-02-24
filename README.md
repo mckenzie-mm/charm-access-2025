@@ -1,10 +1,10 @@
 # Charm Accessories 2025 (Nextjs/React/Typescript)
 
-A 2025 replacement website using modern technology for the Charm Accessories website built in 2020. The code was built using Nextjs, Typescript and React. It is identical to the "wwurm winery" demonstration website that I built for Nordicmade.  Charm Accessories uses different photos/text from a template file that is selected via the configuration when the app is built. The "wwurm winery" website has a different template file with German text/photos that apply to the winery shop. 
+A 2025 replacement website using modern technology for the Charm Accessories website built in 2020. The code was built using Nextjs, Typescript and React. It is identical to the "wwurm winery" demonstration website that I built for Nordicmade.  Charm Accessories uses different photos/text from a template file that is selected via the configuration when the app is built. The "wwurm winery" website has a different template file with German text/photos that apply to the winery shop. The shared code for both is at: https://github.com/mckenzie-mm/nordic-frontend.
 
-The shared code for both is at: https://github.com/mckenzie-mm/nordic-frontend. The website for Charm Accessories can be viewed at: http://charm-accs.com
+The website is hosted on a DigitalOcean Kubernetes Cluster. It can be viewed at: http://charm-accs.com
 
-The kangaroo logo is by Konstantin: https://www.instagram.com/kostya_reshetnikov/. The model photos are by Alena: https://www.dreamstime.com/alenkasm_info. 
+The kangaroo logo is by Konstantin: https://www.instagram.com/kostya_reshetnikov/. The model and photos are by Alena: https://www.dreamstime.com/alenkasm_info.  
 
 The jewelery images/products were taken from temu: https://www.temu.com/. Charm Accessories sells the same, bracelets, necklaces etc at a lower price and offers fast, local postage and delivery.
 
