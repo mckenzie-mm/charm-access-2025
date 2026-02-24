@@ -1,0 +1,9 @@
+services:
+  app:
+    image: snapdragonxc/app-charm
+    ports:
+      - 3000:3000
+  webapi:
+    image: snapdragonxc/dotnet-charm
+    ports:
+      - 5000:5000
